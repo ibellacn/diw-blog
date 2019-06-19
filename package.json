@@ -1,0 +1,21 @@
+{
+  "name": "diw-blog",
+  "version": "1.0.0",
+  "description": "Trabalho de DIW - Blog",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass scss/index.scss css/styles.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibellacn/diw-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibellacn/diw-blog/issues"
+  },
+  "devDependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
