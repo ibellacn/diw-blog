@@ -7,38 +7,38 @@ var dbIsabellaeLucasGusmao = {
                 "titulo": "A noviça Rebelde",
                 "categoria": "Lazer",
                 "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                "dataDePublicacao": "01/01/2019 00:00:00",
+                "dataDePublicacao": "2019-06-20T06:31:26.707Z",
                 "imagem": "https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2016/01/wallpaper-for-facebook-profile-photo.jpg",
                 "comentarios": [
                     {
                         "id": 1,
                         "nome": "Anselmo Souza",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 2,
                         "nome": "Brandon Beto",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 3,
                         "nome": "Thais Milena",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 4,
                         "nome": "Glenda Delfin",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 5,
                         "nome": "Victor Vitano",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     }
                 ],
                 "curtidas": 0
@@ -49,38 +49,38 @@ var dbIsabellaeLucasGusmao = {
                 "titulo": "A noviça Rebelde",
                 "categoria": "Esporte",
                 "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                "dataDePublicacao": "01/01/2019 00:00:00",
+                "dataDePublicacao": "2019-06-20T06:31:26.707Z",
                 "imagem": "https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2016/01/wallpaper-for-facebook-profile-photo.jpg",
                 "comentarios": [
                     {
                         "id": 1,
                         "nome": "Lucas de Castro",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 2,
                         "nome": "Anselmo Souza",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 3,
                         "nome": "Silvania Santos",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 4,
                         "nome": "Peter Louie",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 5,
                         "nome": "Glenda Delfin ",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                 ],
                 "curtidas": 0
@@ -91,38 +91,38 @@ var dbIsabellaeLucasGusmao = {
                 "titulo": "A noviça Rebelde",
                 "categoria": "Esporte",
                 "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                "dataDePublicacao": "01/01/2019 00:00:00",
+                "dataDePublicacao": "2019-06-20T06:31:26.707Z",
                 "imagem": "https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2016/01/wallpaper-for-facebook-profile-photo.jpg",
                 "comentarios": [
                     {
                         "id": 1,
                         "nome": "Diego Cena",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 2,
                         "nome": "Anselmo Souza",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 3,
                         "nome": "Thais Milena",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 4,
                         "nome": "Leonardo Inca",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 5,
                         "nome": "Sandra Lourdes",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     }
                 ],
                 "curtidas": 0
@@ -133,38 +133,38 @@ var dbIsabellaeLucasGusmao = {
                 "titulo": "A noviça Rebelde",
                 "categoria": "Política",
                 "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                "dataDePublicacao": "01/01/2019 00:00:00",
+                "dataDePublicacao": "2019-06-20T06:31:26.707Z",
                 "imagem": "https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2016/01/wallpaper-for-facebook-profile-photo.jpg",
                 "comentarios": [
                     {
                         "id": 1,
                         "nome": "Paula Figo",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 2,
                         "nome": "Pedro Costa",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 3,
                         "nome": "Gustavo Bernie",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 4,
                         "nome": "Pablo Guto",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 5,
                         "nome": "Glenda Delfin",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                 ],
                 "curtidas": 0
@@ -175,38 +175,38 @@ var dbIsabellaeLucasGusmao = {
                 "titulo": "A noviça Rebelde",
                 "categoria": "Política",
                 "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                "dataDePublicacao": "01/01/2019 00:00:00",
+                "dataDePublicacao": "2019-06-20T06:31:26.707Z",
                 "imagem": "https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2016/01/wallpaper-for-facebook-profile-photo.jpg",
                 "comentarios": [
                     {
                         "id": 1,
                         "nome": "Simone Santos",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 2,
                         "nome": "Anselmo Souza",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 3,
                         "nome": "Lorena Silveira",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 4,
                         "nome": "Clara Luz",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     },
                     {
                         "id": 5,
                         "nome": "Frei Matos",
                         "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-                        "dataDePublicacao": "01/01/2019 00:00:00"
+                        "dataDePublicacao": "2019-06-20T06:31:26.707Z"
                     }
                 ],
                 "curtidas": 0
@@ -239,7 +239,7 @@ function insertPublicacao(publicacao) {
         "autor": publicacao.autor,
         "titulo": publicacao.titulo,
         "texto": publicacao.texto,
-        "dataDePublicacao": new Date(),
+        "dataDePublicacao": new Date().toISOString(),
         "categoria": publicacao.categoria,
         "imagem": publicacao.imagem,
         "curtidas": 0
@@ -260,7 +260,7 @@ function insertComentario(comentario, postId) {
         "id": novoId,
         "nome": comentario.nome,
         "texto": comentario.texto,
-        "dataDePublicacao": new Date()
+        "dataDePublicacao": new Date().toISOString()
     };
 
     // Insere o novo objeto no array
@@ -290,7 +290,7 @@ function listaPublicacoes() {
                     <i>∙</i>
                     <strong class="post-category">${post.categoria}</strong>
                     <i>∙</i>
-                    <time class="post-date">${post.dataDePublicacao}</time>
+                    <time class="post-date">${new Date(post.dataDePublicacao).toLocaleDateString()}</time>
                 </div>
             </div>
             <i data-id="${post.id}" class="post-overlay"></i>
