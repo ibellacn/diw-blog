@@ -1,0 +1,16 @@
+.modal {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.32);
+    padding: 20px;
+    border-radius: 8px;
+    z-index: 20;
+    background-color: #fff;
+
+    &.is-visible {
+        display: block;
+    }
+}

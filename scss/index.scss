@@ -1,3 +1,10 @@
 @import "variables";
 
-@import "sections/inicio";
+@import "components/backdrop";
+@import "components/controls";
+@import "components/modal";
+
+@import "sections/header";
+@import "sections/postList";
+@import "sections/newPost";
+@import "sections/viewPost";

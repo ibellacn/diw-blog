@@ -1,0 +1,44 @@
+.viewPost {
+    height: 90%;
+    width: 90%;
+    max-width: 600px;
+    overflow: scroll;
+
+    &-title {
+        font-size: 24px;
+        margin-bottom: 8px;
+    }
+
+    &-imageContainer {
+        position: relative;
+        width: 100%;
+        padding-bottom: 70%;
+        margin-bottom: 20px;
+    }
+
+    hr {
+        border: none;
+        height: 2px;
+        background-color: #3c3c3c;
+    }
+
+    &-image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    &-comment {
+        border: solid 1px #bdbdbd;
+        margin-top: 10px;
+        padding: 10px;
+        border-radius: 4px;
+
+        &:last-of-type {
+            margin-bottom: 10px;
+        }
+    }
+}

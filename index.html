@@ -1,41 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Início</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/styles.css">
 </head>
+
 <body>
     <header class="header">
         <div class="header-top">
-            <div class="header-logo"></div>
-            <button class="header-writeButton"></button>
+            <div class="header-logo">
+                <img class="header-logo-image" src="img/logo@2x.png" alt="">
+            </div>
+            <button id="write-new-post" class="header-writeButton">Escrever um novo post...</button>
         </div>
         <nav class="header-nav">
             <ul class="header-nav-ul">
                 <li class="header-nav-li">Início</li>
+                <li class="header-nav-li">Política</li>
+                <li class="header-nav-li">Economia</li>
+                <li class="header-nav-li">Tecnologia</li>
+                <li class="header-nav-li">Ciência</li>
+                <li class="header-nav-li">Games</li>
+                <li class="header-nav-li">Esportes</li>
                 <li class="header-nav-li">Outras</li>
             </ul>
         </nav>
     </header>
     <main class="main">
-        <div class="postList"></div>
-        <div class="post">
-            <div class="post-imageContainer">
-                <img src="https://farm66.static.flickr.com/65535/33897485028_c40b86f609_b.jpg" alt="Natureza" class="post-image">
-            </div>
-            <h1 class="post-title">Exemplo</h1>
-            <div class="post-content">
-                <div class="post-info">
-                    <span class="post-author"></span>
-                    <strong class="post-category"></strong>
-                    <time class="post-date"></time>
-                </div>
-                <button class="post-like"></button>
-            </div>
+        <div class="postList" id="postList">
         </div>
     </main>
+
+    <div class="newPost modal">
+        <label class="label" for="author">Autor</label>
+        <input id="author" class="input" type="text">
+        <label class="label" for="title">Título</label>
+        <input id="title" class="input" type="text">
+        <label class="label" for="category">Category</label>
+        <input id="category" class="input" type="text">
+        <label class="label" for="image">Imagem</label>
+        <input id="image" class="input" type="file">
+        <label class="label" for="text">Texto</label>
+        <textarea id="text" class="textarea" cols="30" rows="10"></textarea>
+
+        <div class="button-field">
+            <button id="create-new-post" class="button">Enviar</button>
+        </div>
+    </div>
+    <div class="viewPost modal">
+        <h2 class="viewPost-title">Título</h2>
+        <div class="viewPost-imageContainer">
+            <img class="viewPost-image" src="" alt="Título">
+        </div>
+        <article class="viewPost-content">
+            Conteúdo
+        </article>
+        <hr>
+        <div class="viewPost-comments"></div>
+
+        <div class="viewPost-commentForm">
+            <label class="label" for="name">Nome</label>
+            <input class="input" id="name" type="text">
+            <label class="label" for="comment">Comentário</label>
+            <textarea id="comment" class="textarea" cols="30" rows="10"></textarea>
+            <div class="button-field">
+                <button id="post-new-comment" class="button">Postar Comentário</button>
+            </div>
+        </div>
+    </div>
+
+    <i class="backdrop"></i>
+
+    <script src="js/fakedb.js"></script>
 </body>
+
 </html>
