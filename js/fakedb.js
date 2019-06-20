@@ -278,7 +278,7 @@ function listaPublicacoes() {
     document.querySelector('#postList').innerHTML = "";
     let texto = '';
 
-    db.dados.publicacoes.forEach((post) => {
+    [...db.dados.publicacoes].reverse().forEach((post) => {
         texto += `
         <div  class="post">
         <img class="post-image" src="${post.imagem}"
@@ -365,7 +365,6 @@ document.querySelector("#create-new-post").addEventListener("click", () => {
     const category = document.querySelector("#category").value;
     const text = document.querySelector("#text");
     getBase64(document.querySelector("#image").files[0], (base64 => {
-        debugger;
         insertPublicacao({
             "autor": author,
             "titulo": title,
